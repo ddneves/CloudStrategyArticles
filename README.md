@@ -1,6 +1,6 @@
 # CloudStrategyArticles
-- [Article](https://www.linkedin.com/pulse/moving-cloud-real-strategy-part-1-david-das-neves/)] Moving to Cloud, but with a real Strategy — part 1 (Introduction)
-- [Article](https://www.linkedin.com/pulse/moving-cloud-real-strategy-part-1-david-das-neves/)] Introduction - Moving to Cloud, but with a real Strategy — part 2 (Introduction)
+- [[Article](https://www.linkedin.com/pulse/moving-cloud-real-strategy-part-1-david-das-neves/)] Moving to Cloud, but with a real Strategy — part 1 (Introduction)
+- [[Article](https://www.linkedin.com/pulse/moving-cloud-real-strategy-part-1-david-das-neves/)] Introduction - Moving to Cloud, but with a real Strategy — part 2 (Introduction)
 - Overarching IT Architecture & Roadmap [Technology]
 - Mapping Business to IT Architecture [Business & Technology]
 - Organizational change [Organization & Culture] 
