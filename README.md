@@ -1,7 +1,6 @@
 # CloudStrategyArticles
-- Introduction 
-  - [Article] Moving to Cloud, but with a real Strategy — part 1
-  - [Article] Introduction - Moving to Cloud, but with a real Strategy — part 2
+- [Article] Moving to Cloud, but with a real Strategy — part 1 (Introduction)
+- [Article] Introduction - Moving to Cloud, but with a real Strategy — part 2 (Introduction)
 - Overarching IT Architecture & Roadmap [Technology]
 - Mapping Business to IT Architecture [Business & Technology]
 - Organizational change [Organization & Culture] 
