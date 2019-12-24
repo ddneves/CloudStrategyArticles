@@ -16,6 +16,7 @@
 - Cloud Maturity Model [Technology & Operations]
   - Cloud Foundations [People & Technology]
     - Migration Plan [Technology & Business]
+    - Application Portfolio Management [Technology]
     - App Assessment [Technology]
     - Governance [Governance]
 - Platform Architecture [Technology]
